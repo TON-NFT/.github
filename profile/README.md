@@ -3,7 +3,7 @@
 **Это закрытая организация с проектами для экосистемы блокчейна 💎**
 
 --------------
-### [TamperMonkey] Плагин для Getgems.io (очки и рарность)
+### Плагин для [Getgems.io](https://getgems.io/) (очки и рарность) | [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
 - [TonWhales + Diamonds](https://gist.github.com/Yablonev/89dc8a742ab026c9c932e0033f2d5cc6)
 - [TonWhales](https://gist.github.com/Yablonev/4d59361b2efeb0c34146ac3ae184b319)
